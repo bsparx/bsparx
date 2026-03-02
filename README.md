@@ -2,7 +2,8 @@
 - https://www.youtube.com/shorts/62CUCL8sIU0 
 - Dino-Munchies enjoyer 🦖
 
-
+### My humble attempt at solving the 2 sigma problem:
+- nightskytrain.me
 <!--
 **bsparx/bsparx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
